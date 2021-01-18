@@ -31,3 +31,4 @@
 - [Calculator](https://www.calculator.net/)
 
 - [Mysql Workbench (εργαλείο σχεδίασης βάσεων δεδομένων)](https://www.mysql.com/products/workbench/)
+- Εφαρμογή για κινητά για φωτογράφιση και μετατροπή σε pdf https://www.camscanner.com/
