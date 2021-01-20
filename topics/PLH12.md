@@ -45,6 +45,7 @@
 - [Κλάσματα / Απλοποίηση](https://www.calculator.net/fraction-calculator.html)
 
 - [Παραγοντοποίηση](https://www.mathpapa.com/factoring-calculator/)
+- [Κατασκευή Συναρτήσεων για μελέτη Μονοτονίας-Ακροτάτων-Κυρτότητας) (https://www.desmos.com/calculator)
 
 ## Λεξικά:
 
