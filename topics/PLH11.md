@@ -8,3 +8,5 @@
 
 https://eclass.upatras.gr/modules/units/?course=DEAPT127&id=4401
  
+### ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ ###
+- [Fundamentals of Database Systems by Ramez Elmasri, Shamkant B. Navathe] http://auhd.edu.ye/upfiles/elibrary/Azal2020-01-22-12-28-11-76901.pdf
