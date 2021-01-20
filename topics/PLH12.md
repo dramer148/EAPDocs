@@ -39,6 +39,7 @@
 ## Βοηθήματα:
 
 - [Wolfram Alpha](https://www.wolframalpha.com/)
+- [Wolfram -> Εργαλείο ελέγχου πίνακα 3x3 έαν είναι ορθογώνιος: (https://www.wolframalpha.com/input/?i=is+%7B%7B1%2F3%2C-2%E2%88%9A45%2F45%2C0%7D%2C%7B2%2F3%2C5%E2%88%9A45%2F45%2C-%E2%88%9A2%2F2%7D%2C%7B2%2F3%2C-4%E2%88%9A45%2F45%2C%E2%88%9A2%2F2%7D%7D+orthogonal)
 
 - [Symbolab](https://www.symbolab.com/)
 
