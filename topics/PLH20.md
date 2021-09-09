@@ -1,5 +1,7 @@
 # ΠΛΗ20 [Διακριτά Μαθηματικά και Μαθηματική Λογική](https://www.eap.gr/education/undergraduate/computer-science/topics/#diakrita_mathimatika)
 
+## Διακριτά Μαθηματικά - Μαθηματική Λογική
+
 - [Ψούνης ΠΛΗ20](http://www.psounis.gr/plh20.html)
 
 - [Διακριτά Μαθηματικά - Πανεπιστήμιο Πατρών (CEID)](https://eclass.upatras.gr/modules/video/index.php?course=CEID1062&cat_id=117)
